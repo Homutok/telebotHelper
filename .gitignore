@@ -1,2 +1,4 @@
 /page_files/
+.idea
+__pycache__
 chromedriver.exe
